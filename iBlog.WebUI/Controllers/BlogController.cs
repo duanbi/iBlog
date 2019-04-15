@@ -54,7 +54,7 @@ namespace iBlog.WebUI.Controllers
                 {
                     Alias = category.Alias,
                     CateName = category.CateName,
-                    Img = category.Img,
+                    Img = "/Content/Img/通用分类.svg",
                     Link = category.Link
                     //PostCount = await _postRepository.GetPostCountByCate(category.UniqueId)
                 });

@@ -20,3 +20,17 @@ F:\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Redis.xml
 F:\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Text.xml
 F:\iBlog\iBlog.Utility\obj\Debug\iBlog.Utility.dll
 F:\iBlog\iBlog.Utility\obj\Debug\iBlog.Utility.pdb
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\iBlog.Utility.dll
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\iBlog.Utility.pdb
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Common.dll
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Interfaces.dll
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Redis.dll
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Text.dll
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Common.xml
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Redis.xml
+D:\GitHub_milo\iBlog\iBlog.Utility\bin\Debug\ServiceStack.Text.xml
+D:\GitHub_milo\iBlog\iBlog.Utility\obj\Debug\iBlog.Utility.csprojAssemblyReference.cache
+D:\GitHub_milo\iBlog\iBlog.Utility\obj\Debug\iBlog.Utility.csproj.CoreCompileInputs.cache
+D:\GitHub_milo\iBlog\iBlog.Utility\obj\Debug\iBlog.Utility.csproj.CopyComplete
+D:\GitHub_milo\iBlog\iBlog.Utility\obj\Debug\iBlog.Utility.dll
+D:\GitHub_milo\iBlog\iBlog.Utility\obj\Debug\iBlog.Utility.pdb

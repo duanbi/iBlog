@@ -25,6 +25,7 @@
     <SccAuxPath>SAK</SccAuxPath>
     <SccProvider>SAK</SccProvider>
     <UseGlobalApplicationHostFile />
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -142,6 +143,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Data\Elmah.Errors\" />
     <Folder Include="ueditor\net\upload\file\20150328\" />
   </ItemGroup>
   <ItemGroup>
@@ -174,7 +176,6 @@
     <Compile Include="ueditor\net\App_Code\UploadHandler.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\Elmah.Errors\ElmahErrors.txt" />
     <Content Include="Content\account.css" />
     <Content Include="Content\animate-custom.css" />
     <Content Include="Content\animate.css" />
@@ -198,16 +199,6 @@
     <Content Include="Content\Img\button-tray-down.png" />
     <Content Include="Content\Img\button-tray-up.png" />
     <Content Include="Content\Img\close.png" />
-    <Content Include="Content\Img\fine-js.png" />
-    <Content Include="Content\Img\finejs.png" />
-    <Content Include="Content\Img\iconfont-css3.svg" />
-    <Content Include="Content\Img\iconfont-jquery.svg" />
-    <Content Include="Content\Img\iconfont-prod-visualstudio-small.svg" />
-    <Content Include="Content\Img\iconfont-redis.svg" />
-    <Content Include="Content\Img\iconfont-socialangularoutline.svg" />
-    <Content Include="Content\Img\iconfont-socialnodejs.svg" />
-    <Content Include="Content\Img\iconfont-sqlserver.svg" />
-    <Content Include="Content\Img\jquery-emoji.png" />
     <Content Include="Content\Img\loading.gif" />
     <Content Include="Content\Img\nav-bg.png" />
     <Content Include="Content\Img\nav-dot.png" />
@@ -218,14 +209,12 @@
     <Content Include="Content\Img\progress-back.png" />
     <Content Include="Content\Img\progress-bar.png" />
     <Content Include="Content\Img\progress.gif" />
-    <Content Include="Content\Img\s1.jpg" />
-    <Content Include="Content\Img\s2.jpg" />
-    <Content Include="Content\Img\s3.jpg" />
     <Content Include="Content\Img\ErrorBack.jpg" />
     <Content Include="Content\Img\header-profile.png" />
-    <Content Include="Content\Img\jsoneditor-icons.png" />
-    <Content Include="Content\Img\wechat.png" />
     <Content Include="Content\Img\zhr.jpg" />
+    <Content Include="Content\Img\全部分类.svg" />
+    <Content Include="Content\Img\未分类.svg" />
+    <Content Include="Content\Img\通用分类.svg" />
     <Content Include="Content\jQuery.FileUpload\css\jquery.fileupload-noscript.css" />
     <Content Include="Content\jQuery.FileUpload\css\jquery.fileupload-ui-noscript.css" />
     <Content Include="Content\jQuery.FileUpload\css\jquery.fileupload-ui.css" />
