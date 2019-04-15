@@ -18,6 +18,12 @@ namespace iBlog.WebUI
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Blog", action = "Category", id = UrlParameter.Optional }
             );
+
+            routes.MapRoute(
+                name: "admin",
+                url: "{controller}/{action}",
+                defaults: new { controller = "Admin", action = "Index" }
+            );
         }
     }
 }
